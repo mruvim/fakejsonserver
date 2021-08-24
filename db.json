@@ -1,0 +1,16 @@
+{
+    "config": {
+        "settings": {
+            "key1": true,
+            "key2": false
+        }
+    },
+    "home": [
+        {
+            "key": "value"
+        },
+        {
+            "key1": "value1"
+        }
+    ]
+}
